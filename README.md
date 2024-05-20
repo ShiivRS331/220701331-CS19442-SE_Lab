@@ -7,6 +7,72 @@
   - 220701331 - Shiiv R S
 
 ## Assignment 1 - SRS, Agile sprints and use cases
+## Software Requirements Specifications (SRS)
+
+### Introduction
+The purpose of this project is to develop a messaging system website tailored for college use. This system aims to facilitate communication among students, teachers, and administrators by providing features such as messaging, announcement posting, and event creation.
+
+### Functional Requirements
+- **User Authentication:** Users must be able to sign up, log in, and log out securely.
+- **Messaging/Chat Functionalities:** Enable one-on-one and group messaging.
+- **Announcement Posting:** Allow teachers and administrators to post announcements.
+- **Event Creation:** Enable users to create and manage events.
+- **Profile Management:** Users can update their personal information and preferences.
+- **Notification System:** Provide real-time notifications for messages, announcements, and events.
+
+### Non-functional Requirements
+- **Performance:** The system should handle up to 500 concurrent users without significant delay.
+- **Scalability:** The system must be scalable to accommodate future growth in user numbers.
+- **Security:** Implement robust security measures to protect user data and privacy.
+- **Usability:** The interface should be intuitive and easy to navigate for both teachers and students.
+- **Reliability:** Ensure high availability and minimal downtime.
+
+### System Architecture
+- **Database:** Use a relational database to store user data, messages, announcements, and events.
+- **Servers:** Implement a multi-tier architecture with separate servers for the database, application logic, and frontend.
+- **Communication Protocols:** Use HTTPS for secure data transmission and WebSockets for real-time messaging.
+
+### User Interface
+- **Teachers:** Interface should include tools for posting announcements, creating events, and managing classes.
+- **Students:** Interface should focus on messaging, viewing announcements, and participating in events.
+
+### External Interfaces
+- **Email Services:** Integrate with third-party email services to send notifications and password reset emails.
+- **Calendar Integration:** Optionally integrate with calendar services for event reminders.
+
+### Testing Requirements
+- **Unit Testing:** Test individual components for correct functionality.
+- **Integration Testing:** Ensure that different modules work together seamlessly.
+- **User Acceptance Testing (UAT):** Validate the system's functionality with actual users.
+- **Performance Testing:** Measure system performance under various conditions.
+- **Security Testing:** Identify and fix vulnerabilities.
+
+### Constraints
+- **Budget:** The project must be developed within the allocated budget.
+- **Time:** The system should be ready for deployment within six months.
+- **Compatibility:** Ensure compatibility with major browsers and mobile devices.
+
+### Timeline
+1. **Requirement Analysis:** 2 weeks
+2. **Design:** 3 weeks
+3. **Development:** 3 months
+4. **Testing:** 1 month
+5. **Deployment:** 2 weeks
+6. **Maintenance:** Ongoing
+
+## Agile Scrum
+
+### Product Backlog
+- User Authentication
+- Messaging System
+- Announcement Feature
+- Event Management
+- Profile Management
+- Notification System
+- User Interface Design
+- Security Implementations
+- Performance Optimization
+- Integration with Email Services
 
 ![use case diagram](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/image%20(1).png?raw=true)
 
