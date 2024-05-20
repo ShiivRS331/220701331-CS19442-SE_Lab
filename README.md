@@ -1,5 +1,8 @@
 # Team-12 : REConnect-Messaging-System
 
+#Assignment 1 - SRS, Agile sprints and use cases
+![use case diagram](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/image(1).png?raw=true)
+
 
 ![us1](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/us1.png?raw=true)
 
