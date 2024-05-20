@@ -1,6 +1,6 @@
 # Team-12 : REConnect Messaging System
   - 220701301 - Tharun M
-  - 220701307 - Umesh Subramaniyam
+  - 220701307 - Umesh Subramanian
   - 220701313 - Veeraraghavan M
   - 220701319 - Vijai T
   - 220701325 - Vishnu Velavan
