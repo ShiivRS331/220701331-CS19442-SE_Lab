@@ -74,7 +74,7 @@ The purpose of this project is to develop a messaging system website tailored fo
 - Performance Optimization
 - Integration with Email Services
 
-##Use Case Diagram
+## Use Case Diagram
 
 ![use case diagram](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/image%20(1).png?raw=true)
 
