@@ -8,20 +8,20 @@
 
 ## Assignment 1 - SRS, Agile sprints and use cases
 
-![use case diagram](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/image%20(1).png?raw=true)
+![use case diagram](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/image%20(1).png?raw=true)
 
 ## Assignment 2 - Class Diagram
-![class diagram](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/class%20diag.png?raw=true)
+![class diagram](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/class%20diag.png?raw=true)
 
 ## Assignment 3 - Sequence Diagrams
-![sequence diagram 1](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/seq%20diag1.png?raw=true)
-![sequence diagram 2](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/seq%20diag2.png?raw=true)
+![sequence diagram 1](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/seq%20diag1.png?raw=true)
+![sequence diagram 2](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/seq%20diag2.png?raw=true)
 
 ## Assignment 4 - Sprints using Devops 
-![us1](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/us1.png?raw=true)
-![us2](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/us2.png?raw=true)
-![us3](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/us3.png?raw=true)
-![us4](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/us4.png?raw=true)
+![us1](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/us1.png?raw=true)
+![us2](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/us2.png?raw=true)
+![us3](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/us3.png?raw=true)
+![us4](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/us4.png?raw=true)
 
 ## Assignment 5 - CI/CD Pipelines using Azure DevOps
 
