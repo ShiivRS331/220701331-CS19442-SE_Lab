@@ -6,7 +6,6 @@
   - 220701325 - Vishnu Velavan
   - 220701331 - Shiiv R S
 
-## Assignment 1 - SRS, Agile sprints and use cases
 ## Software Requirements Specifications (SRS)
 
 ### Introduction
@@ -78,10 +77,10 @@ The purpose of this project is to develop a messaging system website tailored fo
 
 ![use case diagram](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/image%20(1).png?raw=true)
 
-## Assignment 2 - Class Diagram
+## Class Diagram
 ![class diagram](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/class%20diag.png?raw=true)
 
-## Assignment 3 - Sequence Diagrams
+## Sequence Diagrams
 ![sequence diagram 1](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/seq%20diag1.png?raw=true)
 ![sequence diagram 2](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/seq%20diag2.png?raw=true)
 
@@ -91,7 +90,7 @@ The purpose of this project is to develop a messaging system website tailored fo
 ![us3](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/us3.png?raw=true)
 ![us4](https://github.com/ShiivRS331/Team-12---REConnect-Messaging-System/blob/main/images/us4.png?raw=true)
 
-## Assignment 5 - CI/CD Pipelines using Azure DevOps
+## CI/CD Pipelines using Azure DevOps
 
 ### Continuous Integration (CI)
 
