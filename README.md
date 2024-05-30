@@ -6,8 +6,7 @@
   - 220701325 - Vishnu Velavan
   - 220701331 - Shiiv R S
 
-#Azure Boards
-[![Board Status](https://dev.azure.com/220701331/46e31a48-6438-4f71-95cb-16a657905bc3/fd2bc4da-bcc0-4019-aa96-6dc22125b492/_apis/work/boardbadge/683f72c6-7354-470d-9ae3-126251c45e66?columnOptions=1)](https://dev.azure.com/220701331/46e31a48-6438-4f71-95cb-16a657905bc3/_boards/board/t/fd2bc4da-bcc0-4019-aa96-6dc22125b492/Microsoft.EpicCategory/)
+# Azure Boards
 [![Board Status](https://dev.azure.com/220701331/46e31a48-6438-4f71-95cb-16a657905bc3/fd2bc4da-bcc0-4019-aa96-6dc22125b492/_apis/work/boardbadge/683f72c6-7354-470d-9ae3-126251c45e66?columnOptions=1)](https://dev.azure.com/220701331/46e31a48-6438-4f71-95cb-16a657905bc3/_boards/board/t/fd2bc4da-bcc0-4019-aa96-6dc22125b492/Microsoft.EpicCategory/)
 
 ## Software Requirements Specifications (SRS)
